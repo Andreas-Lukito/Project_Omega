@@ -1,7 +1,3 @@
-Gotchu 🐾 I’ll help you make a clean, recruiter-friendly but still student-style README that explains your project clearly and shows off your work. Here’s a template you can drop into your repo:
-
----
-
 # 🏷️ Dynamic Pricing Model
 
 This project explores a **machine learning approach to dynamic pricing**, where the model automatically adjusts product prices based on various business factors.
